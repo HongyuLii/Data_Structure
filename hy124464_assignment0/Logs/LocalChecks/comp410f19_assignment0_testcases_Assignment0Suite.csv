@@ -1,0 +1,6 @@
+#,Time,%Passes,Change,Test,Pass,Partial,Fail,Untested
+0,Sun Sep 01 20:12:19 EDT 2019,0,0,Assignment0Suite, , ,LoudTest- QuietTest- , ,
+1,Tue Sep 03 20:47:32 EDT 2019,0,0,Assignment0Suite, , ,LoudTest QuietTest , ,
+2,Tue Sep 03 20:55:58 EDT 2019,100,100,Assignment0Suite,LoudTest+ QuietTest+ , , , ,
+3,Tue Sep 03 20:57:35 EDT 2019,100,0,Assignment0Suite,LoudTest QuietTest , , , ,
+4,Tue Sep 03 21:23:29 EDT 2019,100,0,Assignment0Suite,LoudTest QuietTest , , , ,
